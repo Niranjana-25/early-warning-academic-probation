@@ -14,9 +14,9 @@ The analysis notebook reports **10,000 rows and 16 columns**. The classification
 
 ## Project Documentation and Workflow
 
-### Core Analysis — Days 1–6
+### Core Analysis — Available Work from Days 2 and 4–6
 
-The first six days are documented through the project's analysis folders and notebooks rather than separate Day 1–6 technical reports.
+The repository contains the EDA notebook labeled Day 2, the performance-analysis notebook labeled Day 4, the SVM/risk notebook labeled Day 5, and the KPI notebook labeled Day 6. These are documented in their respective folders; separate Day 1 and Day 3 notebooks or technical reports are not currently listed in the repository.
 
 | Work area | Repository contents |
 |---|---|
